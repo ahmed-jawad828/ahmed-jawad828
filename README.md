@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MERN Stack.
 - 🌱 New hobby is to learn Backend technologies, Blockchain and DevOps.
 
--->
+
 [![Jawad's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-jawad828&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-jawad828&layout=compact&theme=onedark&hide=html,php)](https://github.com/anuraghazra/github-readme-stats)
