@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ Ping me on my malibox (jawad@cardclan.io)
+- ⚡ Ping me on my malibox (jawad@guestguru.ai)
 - 🔭 I’m currently working on MERN Stack.
 - 🌱 New hobby is to learn Backend technologies, Blockchain and DevOps.
 
